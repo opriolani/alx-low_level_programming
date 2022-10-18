@@ -5,6 +5,7 @@
  * Return: Always 0
  */
 int main(void)
+
 {
 	int i, k = '0', j;
 
