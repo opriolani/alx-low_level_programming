@@ -3,7 +3,6 @@
 /**
  * print_alphabet - Fuction for printing alphabet in lowercase
  */
-
 void print_alphabet(void)
 {
 	char alpha;
